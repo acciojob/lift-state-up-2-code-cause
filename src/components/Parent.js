@@ -6,7 +6,7 @@ const Parent=()=>{
     const [value, setValue] = useState('');
 
     return(
-<div className="Parent" style={{backgroundColor: "Green"}}>
+<div className="parent" style={{backgroundColor: "Green"}}>
             <h1>Parent Component</h1>
           <p>{value}</p>
 

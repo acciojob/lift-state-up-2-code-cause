@@ -4,7 +4,7 @@ import React from "react";
 
 const Child=({props})=>{
 
-    console.log(props);
+    // console.log(props);
    
     return(
         
